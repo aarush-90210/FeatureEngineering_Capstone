@@ -38,6 +38,7 @@ jupyter notebook FeatureEngineering_Capstone.ipynb
 Tasks Covered
 Task	Topic	Key Output
 1	Baseline Model	Accuracy 0.52, ROC-AUC 0.53
+
 2	Curse of Dimensionality	Distance distribution + NN ratio plots
 3	Numeric Preprocessing	Binning, Binarization, Scaler comparison
 4	Distance Metrics & Scaling	KNN × 6 configs (3 scalers × 2 metrics)
